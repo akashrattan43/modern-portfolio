@@ -5,28 +5,18 @@ const MenuSocial = () => {
   return (
     <ul className="menuSocialLinksContainer">
       <li className="menuSocialIconContainer" title="Github">
-        <a href="https://github.com/AkashHinch" target={"_blank"}>
+        <a href="https://github.com/akashrattan43" target={"_blank"}>
           <Icon icon="fa6-brands:github-square" className="menuSocialIcon" />
         </a>
       </li>
       <li className="menuSocialIconContainer" title="Linkedin">
-        <a href="https://www.linkedin.com/in/Akash-Rattan" target={"_blank"}>
+        <a href="https://www.linkedin.com/in/akashrattan" target={"_blank"}>
           <Icon icon="fa6-brands:linkedin" className="menuSocialIcon" />
         </a>
       </li>
-      <li className="menuSocialIconContainer" title="Facebook">
-        <a href="https://www.facebook.com/AkashRattan" target={"_blank"}>
-          <Icon icon="fa6-brands:facebook-square" className="menuSocialIcon" />
-        </a>
-      </li>
       <li className="menuSocialIconContainer" title="Instagram">
-        <a href="https://www.instagram.com/phil_hinch" target={"_blank"}>
+        <a href="https://www.instagram.com/akaypool" target={"_blank"}>
           <Icon icon="fa6-brands:instagram-square" className="menuSocialIcon" />
-        </a>
-      </li>
-      <li className="menuSocialIconContainer" title="Codepen">
-        <a href="https://codepen.io/neo90sr" target={"_blank"}>
-          <Icon icon="fa6-brands:codepen" className="menuSocialIcon" />
         </a>
       </li>
       {/* <li className='line'></li> */}
