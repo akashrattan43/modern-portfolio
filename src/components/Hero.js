@@ -1,3 +1,4 @@
+import { Icon } from "@iconify/react";
 const Hero = ({ menuOpen, setMenuOpen }) => {
   return (
     <div className="heroContainer">
@@ -35,6 +36,17 @@ const Hero = ({ menuOpen, setMenuOpen }) => {
               viewProjects
             </a>
           </div>
+          <div>
+            <a href="https://www.linkedin.com/in/akashrattan/" target={'_blank'} rel="noopener noreferrer" className="btn btn-primary heroButton">
+            <Icon icon="fa6-brands:linkedin" className="menuSocialIcon" /> Linkedin
+            </a>
+            </div>
+            <div>
+            
+            <a href="https://github.com/akashrattan43" target={'_blank'} rel="noopener noreferrer" className="btn btn-primary heroButton">
+            <Icon icon="fa6-brands:github-square" className="menuSocialIcon" /> Github
+            </a>
+            </div>
         </div>
       </div>
     </div>

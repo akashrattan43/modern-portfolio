@@ -5,17 +5,17 @@ const MenuSocial = () => {
   return (
     <ul className="menuSocialLinksContainer">
       <li className="menuSocialIconContainer" title="Github">
-        <a href="https://github.com/akashrattan43" target={"_blank"}>
+        <a href="https://github.com/akashrattan43" target={"_blank"} rel="noopener noreferrer">
           <Icon icon="fa6-brands:github-square" className="menuSocialIcon" />
         </a>
       </li>
       <li className="menuSocialIconContainer" title="Linkedin">
-        <a href="https://www.linkedin.com/in/akashrattan" target={"_blank"}>
+        <a href="https://www.linkedin.com/in/akashrattan" target={"_blank"} rel="noopener noreferrer">
           <Icon icon="fa6-brands:linkedin" className="menuSocialIcon" />
         </a>
       </li>
       <li className="menuSocialIconContainer" title="Instagram">
-        <a href="https://www.instagram.com/akaypool" target={"_blank"}>
+        <a href="https://www.instagram.com/akaypool" target={"_blank"} rel="noopener noreferrer">
           <Icon icon="fa6-brands:instagram-square" className="menuSocialIcon" />
         </a>
       </li>
