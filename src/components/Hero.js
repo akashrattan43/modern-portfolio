@@ -15,7 +15,7 @@ const Hero = ({ menuOpen, setMenuOpen }) => {
             hello, i'm <span className="firstNameHero">Akash</span>,
           </h1>
           <p className="heroIntroParagraph">
-            a front-end web developer who loves to build applications for the
+            A Software Engineer who loves to build applications for the
             web.
           </p>
         </div>
