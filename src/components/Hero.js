@@ -26,7 +26,7 @@ const Hero = ({ menuOpen, setMenuOpen }) => {
             <p className="code firstNameCode">{'firstName : "Akash",'}</p>
             <p className="code lastNameCode">{'lastName : "Rattan",'}</p>
             <p className="code infoCode">
-              {'info : "passionate Front End web developer"'}
+              {'info : "passionate Software Engineer"'}
             </p>
             <br />
             <p>{"};"}</p>
