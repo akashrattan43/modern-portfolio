@@ -8,7 +8,7 @@ const ContactMe = () => {
         <span className="red">03.</span>contactMe
       </h2>
       <form
-        action="https://formsubmit.co/5555b6056dd5a774a44624beb67ad7d0"
+        action="https://formsubmit.co/akashrattan43@gmail.com"
         method="POST"
       >
         <input
